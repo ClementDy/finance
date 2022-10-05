@@ -1,6 +1,5 @@
 package com.example.finance.controller;
 
-import com.example.finance.entity.Account;
 import com.example.finance.entity.Transaction;
 import com.example.finance.service.TransactionService;
 import lombok.RequiredArgsConstructor;
